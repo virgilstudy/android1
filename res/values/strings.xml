@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloVirgil</string>
+    <string name="hello_world">Hello virgil!</string>
+    <string name="action_settings">设置1</string>
+
+</resources>
